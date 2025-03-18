@@ -68,8 +68,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/darshan-a-s/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="LinkedIn logo" />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="LinkedIn logo" /></a>
   <a href="mailto:darshanasatruval@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="Gmail logo" />
   </a>
