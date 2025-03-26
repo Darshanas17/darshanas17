@@ -1,20 +1,10 @@
-<h2 align="left">👋 Hi, I'm Darshan</h2>  
-<p align="left">I am a passionate <strong>Software Developer</strong> with a strong foundation in <strong>Frontend Development</strong> and an interest in the <strong>MERN Stack</strong>. I enjoy building interactive web applications and continuously enhancing my coding skills.</p>  
-
-<h3 align="left">🔥 What I Do:</h3>  
-<ul align="left">
-  <li>🌐 <strong>Frontend Development</strong> – React, HTML, CSS, JavaScript, Bootstrap</li>  
-  <li>⚙️ <strong>Backend Learning</strong> – Node.js, Express.js, MongoDB</li>  
-  <li>🎯 <strong>Problem-Solving & Coding Challenges</strong></li>  
-  <li>☁️ <strong>Cloud & DevOps Basics</strong> – Google Cloud Career Readiness</li>  
-</ul>
-
+<h2 align="left">👋 Hi, I'm Darshan, a passionate Software Developer with a strong foundation in Frontend Development and an interest in the MERN Stack. I enjoy building interactive web applications and continuously enhancing my coding skills.<br><br>🔥 What I Do:<br>🌐 Frontend Development (React, HTML, CSS, JavaScript, Bootstrap)<br>⚙️ Backend Learning (Node.js, Express.js, MongoDB)<br>🎯 Problem-Solving & Coding Challenges<br>☁️ Cloud & DevOps Basics (Google Cloud Career Readiness)</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Darshanas17&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshanas17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshanas17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Darshanas17&theme=dracula&margin-w=10&margin-h=10&column=4&no-frame=false&no-bg=false&row=2" height="150" alt="trophy graph"  />
 </div>
 
@@ -60,22 +50,17 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Darshanas17/Darshanas17/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/darshan-a-s/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="LinkedIn logo" /></a>
-  <a href="mailto:darshanasatruval@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="Gmail logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
+  <a href="mailto:darshanasatruval@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
   </a>
 </div>
 
-
+###
