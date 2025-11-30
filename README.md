@@ -10,7 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://res.cloudinary.com/dedykxiko/image/upload/v1742297487/darshan_cbgnn4.jpg"  />
 
 ###
 
